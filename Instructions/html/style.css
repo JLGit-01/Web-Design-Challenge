@@ -5,16 +5,36 @@
 }
 
 #vizimage {
-    height: 100px;px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
 
 
 
 }
 #lat_title {
-color:aquamarine;
-font-weight: bold;
+color:white;
+font-weight:bold ;
+background:teal;
+
+
+}
+
+#compimage {
+    height: 300px;
+    width: 300px;
 
 
 
 }
+h3 {
+
+color: teal;
+
+}
+
+h1 {
+
+color:teal
+
+}
+
